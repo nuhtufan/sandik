@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 veri/ham-odemeler/*.json
 gelen/*.xlsx
+veri/durum/*.json
