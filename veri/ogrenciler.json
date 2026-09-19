@@ -1,0 +1,14 @@
+{
+  "donem": "2024-2025",
+  "fee_months": ["2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06"],
+  "ogrenciler": [
+    {
+      "id": "001",
+      "ad": "Alya Aydoğdu",
+      "sinif": "4A",
+      "aylik_aidat": 290,
+      "toplam_beklenen": 2900,
+      "veliler": ["Ali Aydoğdu", "Ayşe Aydoğdu"]
+    }
+  ]
+}
