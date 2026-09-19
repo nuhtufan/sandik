@@ -5,3 +5,4 @@ __pycache__/
 veri/ham-odemeler/*.json
 gelen/*.xlsx
 veri/durum/*.json
+cikti/*.md
