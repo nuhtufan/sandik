@@ -1,14 +1,84 @@
 {
   "donem": "2024-2025",
-  "fee_months": ["2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06"],
+  "fee_months": [
+    "2024-09", "2024-10", "2024-11", "2024-12",
+    "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06"
+  ],
   "ogrenciler": [
     {
-      "id": "001",
-      "ad": "Alya Aydoğdu",
-      "sinif": "4A",
-      "aylik_aidat": 290,
-      "toplam_beklenen": 2900,
+      "id": "001", "ad": "Alya Aydoğdu",
+      "sinif": "4A", "aylik_aidat": 290, "toplam_beklenen": 2900,
       "veliler": ["Ali Aydoğdu", "Ayşe Aydoğdu"]
+    },
+    {
+      "id": "002", "ad": "Gökçe Doğru",
+      "sinif": "4A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Murat Doğru"]
+    },
+    {
+      "id": "003", "ad": "Ege Alton",
+      "sinif": "4B", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": []
+    },
+    {
+      "id": "004", "ad": "Asya Mina Dalbastı",
+      "sinif": "3A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Yeşim Özge Dalbastı"]
+    },
+    {
+      "id": "005", "ad": "İrfan Çınar Dalbastı",
+      "sinif": "4A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Yeşim Özge Dalbastı"]
+    },
+    {
+      "id": "006", "ad": "Belemir Kazancı",
+      "sinif": "4B", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Burak Kazancı"]
+    },
+    {
+      "id": "007", "ad": "Almila Elvermez Yılmaz",
+      "sinif": "3B", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Hakan Elvermez Yılmaz"]
+    },
+    {
+      "id": "008", "ad": "Alina Elvermez Yılmaz",
+      "sinif": "4A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Hakan Elvermez Yılmaz"]
+    },
+    {
+      "id": "009", "ad": "Elif Ela Kuzu",
+      "sinif": "3A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Musa Kuzu"]
+    },
+    {
+      "id": "010", "ad": "Kuzey Çalışkan",
+      "sinif": "4B", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Sertan Çalışkan"]
+    },
+    {
+      "id": "011", "ad": "Kemal Eymen Yavuz",
+      "sinif": "3B", "aylik_aidat": 175, "toplam_beklenen": 1750,
+      "veliler": ["Pınar Yavuz", "Kemal Yavuz"]
+    },
+    {
+      "id": "012", "ad": "Zeynep Ayşe Okur",
+      "sinif": "4A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Emre Okur"]
+    },
+    {
+      "id": "013", "ad": "Aysima Yıldız",
+      "sinif": "3A", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": ["Derya Uzuner Yıldız"]
+    },
+    {
+      "id": "014", "ad": "Alp Tuna Hakan",
+      "sinif": "4B", "aylik_aidat": 120, "toplam_beklenen": 1200,
+      "veliler": ["Yasin Hakan"]
+    },
+    {
+      "id": "015", "ad": "Neva Yıldırım",
+      "sinif": "3B", "aylik_aidat": 290, "toplam_beklenen": 2900,
+      "veliler": []
     }
   ]
 }
